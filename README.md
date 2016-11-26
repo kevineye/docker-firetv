@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/image/kevineye/firetv.svg)](https://microbadger.com/images/kevineye/firetv "Get your own image badge on microbadger.com")
+
 This container provides a RESTful interface to Amazon Fire TV devices using the
 [python-firetv](https://github.com/happyleavesaoc/python-firetv) Python package. It is 
 particularly useful for controlling an Amazon Fire TV through 
